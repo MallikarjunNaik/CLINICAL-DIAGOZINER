@@ -12,7 +12,7 @@
 
 ## 🎥 Demo
 
-![Clinical Diagonizer](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+![Clinical Diagonizer]
 
 > *Experience the seamless workflow and organized data management with Clinical Diagonizer!*
 
